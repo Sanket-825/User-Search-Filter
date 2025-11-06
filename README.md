@@ -36,3 +36,12 @@ Dynamic User Finder is a responsive search filter web app built with HTML, CSS (
 4. A debounce function ensures optimal performance.
 
 5. The interface updates instantly without reloading the page.
+
+🧠 Learning Inspiration
+
+This project was created while learning JavaScript from
+<a href="https://www.youtube.com/@sheriyanscodingschool">🎓 Sheriyans Coding School </a>
+
+Huge thanks to them for their amazing JS tutorials and motivation! 🙌
+
+
