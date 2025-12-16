@@ -4,7 +4,7 @@ Dynamic User Finder is a responsive search filter web app built with HTML, CSS (
 
 ---
 
-##  **Preview**
+## **Preview**
 
 
 <img width="1366" height="768" alt="search-filter 1" src="https://github.com/user-attachments/assets/d175c19f-7cd4-4236-850d-919ec0073cb0" />
